@@ -1,0 +1,58 @@
+
+Part A:
+
+
+
+
+Part B:
+Methods to enhance visit:
+The site should demo a brief history on Japanese culture and explain traditional values such as the role of age, or vertical ranking, appearance, and other national beliefs.
+
+The site should display items available for purchase in the store, as well as items being showcased (with a description and price - where applicable).
+
+The site should be accessible from multiple browsers on multiple devices.
+
+The site should utilize a SWF file (file extension for a Shockwave Flash file that stands for Small Web Format) or similar to demonstrate a virtual tour of the Imperial Palace and a temple in Tokyo to give the visitor an idea of what they will see at the JCC. With a SWF file, the site can contain video and vector based animations, with optional sound, and are designed for efficient delivery over the web.
+
+Optional:
+The site can partner with other companies(examples: rosetta stone - for taking Japanese lessons, expedia - for scheduling a trip to Japan, Tomo Japanese Restaurant in Atlanta - for making a reservation, groupon, etc.).
+
+VR and AR
+
+Notes for Architecture final:
+
+2 questions about digital circuit design (ch 4 and 5)
+chapter 4 - digital components
+			3-state buffer table 4.5
+			1. be able to design a bus!
+			2. multiplexer
+			3. adder subtractor - example: 1 XOR B = B'
+			4. circuit-shifter
+			5. half adder - incrementer, example: A <- A + 1
+			6. Quiz #3
+chapter 5 - control circuit for registers
+			control circuit - design refer to table 5.6 (microoperations)
+			Load, Increment, Clear 
+			1. instructions in memory-reference instructions (microoperations)
+			2. design control circuit for registers. Example, AR, TR, AC, DR IR, PC, etc.. (8)
+			3. bus system for register selection
+			4. quiz 4 - assembly to microoperations
+			5. translate binary code -> microoperation
+				ac <- dr, dr <- ac in 1 time clock
+			6. interrupt (how to detect and handle)
+			7. two passes: create address symbol table then translate code to binary
+chapter 7 - control code: F1, F2, F3 -> microoperation; opcode -> reflective to control memory
+			table 7-3
+chapter 8 - figure in quiz 7
+			stack
+
+
+
+PLC
+
+1. search for C standard
+2. page 11 and 12 in chapter 7 operand overloader
+3. 
+
+575x383
+http://www.flaticon.com/search/japanese
